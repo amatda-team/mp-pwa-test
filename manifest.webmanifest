@@ -2,8 +2,8 @@
   "name": "멘플⁺",
   "short_name": "멘플⁺",
   "display": "standalone",
-  "background_color": "#0b0b0f",
-  "theme_color": "#0b0b0f",
+  "background_color": "#fff",
+  "theme_color": "#fff",
   "icons": [
     {
       "src": "https://cdn.imweb.me/upload/S202406015261928864df0/be77f3915acbf.png",
